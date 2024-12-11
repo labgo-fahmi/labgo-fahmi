@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fahmi
-- 🌱 I’m currently web development 
+- 🌱 I’m currently learning web development 
 
 
 <!---
